@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions lately agreed on by the Lords and Commons assembled in Parliament, for the commissioners sent by them to the Hague, unto the Kings most Excellent Majesty. Together with the speech made thereupon by the honorable Denzell Holles esq; one of the commissioners, on Wednesday the 16th day of May, 1660. Now published for the taking off and disproving those false reports raised by some malicious persons, as if he had gone beyond his commission, and the said instructions.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82839</idno>
+            <idno type="STC">Wing E1595</idno>
+            <idno type="STC">Thomason E1027_9</idno>
+            <idno type="STC">ESTC R208873</idno>
+            <idno type="EEBO-CITATION">99867791</idno>
+            <idno type="PROQUEST">99867791</idno>
+            <idno type="VID">168875</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168875)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1027[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions lately agreed on by the Lords and Commons assembled in Parliament, for the commissioners sent by them to the Hague, unto the Kings most Excellent Majesty. Together with the speech made thereupon by the honorable Denzell Holles esq; one of the commissioners, on Wednesday the 16th day of May, 1660. Now published for the taking off and disproving those false reports raised by some malicious persons, as if he had gone beyond his commission, and the said instructions.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[4], 11, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Clavel at the Stags-head in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The verso of the first leaf contains a woodcut of the royal arms.</note>
+                  <note>Annotation on Thomason copy: "June 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Restorations, Political --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:168875:2"/>
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT.</q>
+                  <q>HONI SOIT QVI MAL P PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:168875:1" rendition="simple:additions"/>
+            <p>INSTRUCTIONS Lately agreed on by the Lords and Commons Aſſembled in PARLIAMENT, For the Commiſſioners ſent by them to the <hi>Hague,</hi> unto the <hi>Kings</hi> moſt Excellent Majeſty.</p>
+            <p>Together with the SPEECH Made thereupon by the Honorable <hi>DENZELL HOLLES</hi>
+               <abbr>Eſq</abbr>
+            </p>
+            <p>One of the COMMISSIONERS, on Wedneſday the 16<hi rend="sup">th</hi> day of <hi>May,</hi> 1660.</p>
+            <p>Now Publiſhed for the taking off and diſproving thoſe falſe Reports raiſed by ſome malicious Perſons, as if he had gone beyond his Commiſſion, and the ſaid Inſtructions.</p>
+            <q>
+               <p>Sit Liber Judex.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Clavel</hi> at the Stags-head in St. <hi>Pauls</hi> Church-yard, 1660. <add>June 7</add>
+            </p>
+            <pb facs="tcp:168875:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:168875:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_instructions_for_commissioners">
+            <pb n="1" facs="tcp:168875:3"/>
+            <head>INSTRUCTIONS FOR <hi>Aubery</hi> Earl of <hi>Oxford, Charles</hi> Earl of <hi>War<g ref="char:EOLhyphen"/>wick, Lyonel</hi> Earl of <hi>Middleſex, Lyceſter</hi> Viſcount <hi>Hereford, George</hi> Lord <hi>Berkley, Robert</hi> Lord <hi>Brooke,</hi> the Lord <hi>Herbert,</hi> the Lord <hi>Mandevile,</hi> the Lord <hi>Bruce,</hi> the Lord <hi>Caſtleſton,</hi> the Lord <hi>Falkland,</hi> the Lord <hi>Fairfax, Denzell Holles</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Ho<g ref="char:EOLhyphen"/>ratio Townſend,</hi> Sir <hi>John Holland,</hi> Sir <hi>An<g ref="char:EOLhyphen"/>thony Aſhley-Cooper,</hi> Sir <hi>George Booth,</hi> and Sir <hi>Henry Cholmley.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">Y</seg>OU are to begin your Journey towards his Majeſty on Fryday next, and make a ſpeedy repair to ſuch place where his Majeſty ſhall be, and humbly to pre<g ref="char:EOLhyphen"/>ſent the Letters wherewith you are re<g ref="char:EOLhyphen"/>ſpectively intruſted by both Houſes of Parliament.</p>
+            <p>
+               <pb n="2" facs="tcp:168875:4"/>
+You are to acquaint his Majeſty with what great Joy and Acclamation he was Proclamed, in and about the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> upon the Eighth day of <hi>May</hi> inſtant, and preſent the Procla<g ref="char:EOLhyphen"/>mation it ſelf unto his Majeſty; and to acquaint him with the Orders of both Houſes to have the ſame Proclaimed throughout the Kingdoms of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> Dominion of <hi>Wales,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed;</hi> And that both Houſes have Ordered, <hi>That all and every the Miniſters through<g ref="char:EOLhyphen"/>out the Kingdoms of</hi> England <hi>and</hi> Ireland <hi>be enjoyned in their publique Prayers to pray for his moſt Excellent Majeſty, and for the moſt Illuſtrious Prince</hi> James <hi>Duke of</hi> Yorke, <hi>and the reſt of the Royal Pro<g ref="char:EOLhyphen"/>geny.</hi> And alſo that they have Ordered, <hi>That the aſſumed Armes of the late pretended Common-wealth wherever they are ſtanding be taken down, and that his Majeſties Armes be ſet up in ſtead thereof:</hi> And you are to communicate to his Majeſty the Reſolutions of both Houſes relating to this In<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>You are to acquaint his Majeſty with the earneſt deſire of both Houſes, That his Majeſty will be pleaſed to make a ſpeedy return to his Parliament, and to the Exerciſe of his Kingly Office, and that in Order thereunto both Houſes have given directions to General <hi>Mountague,</hi> one of the Generals at Sea, and other Officers of the Fleet, to obſerve ſuch Com<g ref="char:EOLhyphen"/>mands, as his Majeſty ſhall pleaſe to give him or them for diſpoſal of the Fleet, in Order to his Ma<g ref="char:EOLhyphen"/>jeſties Return; And you are to communicate to his Majeſty the reſolutions of both Houſes relating to this Inſtruction.</p>
+            <p>
+               <pb n="3" facs="tcp:168875:4"/>
+That the Committee from both Houſes do beſeech his Majeſty, That they may know where he purpoſeth to take Shipping, and to Land at his coming Over, that preparation may be made for his Reception; and which of his Majeſties houſes He intendeth to make uſe of at his firſt coming to <hi>London;</hi> And whether he will come all the way by Land after he comes on ſhoar, or whether he will pleaſe to come by Water from <hi>Graveſend</hi> to <hi>London;</hi> And that his Majeſty will declare in what manner he is pleaſed to be received.</p>
+            <closer>
+               <signed>
+                  <hi>Will. Jeſſop</hi> Cl. of the Commons Houſe of Parliament.</signed>
+            </closer>
+            <pb facs="tcp:168875:5"/>
+         </div>
+         <div type="speech">
+            <pb n="5" facs="tcp:168875:5"/>
+            <head>THE SPEECH Made thereupon by the Honorable <hi>DENZELL HOLLES</hi> 
+               <abbr>Eſq</abbr> One of the COMMISSIONERS.</head>
+            <opener>
+               <salute>Dread Soveraign,</salute>
+            </opener>
+            <q>
+               <p>
+                  <seg rend="decorInit">Y</seg>Our faithful Subjects the Commons of <hi>England</hi> aſſembled in Parlia<g ref="char:EOLhyphen"/>ment have ſent us hither, Twelve of their Number to wait upon your Majeſty; and by their Commands we are here proſtrate at your Royal feet, where themſelves are all of them preſent with us in the ſincere and moſt Loyal affections and deſires of their hearts, and would have been in their perſons, if your Majeſties ſervice, and the truſt repoſed in them by all the ſeve<g ref="char:EOLhyphen"/>rall parts of the Kingdom did not neceſſarily require their attendance and continuance in the place where
+<pb n="6" facs="tcp:168875:6"/>
+they now are, and where all their thoughts and endea<g ref="char:EOLhyphen"/>vors are wholly taken up, and imployed in thoſe two great and main works, which are the proper and genuine ends of all Parliaments, the Advancement of their Kings ſervice and the diſcharge of their Coun<g ref="char:EOLhyphen"/>tries truſt.</p>
+               <p>And certainly, Sir, we can ſpeak it with a great deal of Joy, and with no leſſe of Truth, that never Parliament made greater demonſtrations of Zeal, Affection and Loyalty to any of the Kings of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> then this Parliament hath done, and doth, and we hope, and doubt not, nay we know it that it ever will do unto your Majeſty, our Liege Lord and King. Their hearts are filled with a Veneration of you, Longings for you, Confidence in you, and De<g ref="char:EOLhyphen"/>ſires to ſee and ſerve you, and their tongues do upon all occaſions expreſſe it; and in ſo doing they are (ac<g ref="char:EOLhyphen"/>cording to the Nature of Parliaments) the true Re<g ref="char:EOLhyphen"/>preſentative of the whole Nation: for they but do that in a more contracted and regular way, which the Generality of the people of the Land, from the one end of it to another, do in a more confuſed and diſorderly manner, yet as heartily and as affectionate<g ref="char:EOLhyphen"/>ly, all degrees, and ages, and ſexes, high and low, rich and poor (as I may ſay) Men, Women, and Children joyn in ſending up this prayer to Heaven, <hi>God bleſſe King</hi> Charles, <hi>Long live King</hi> Charles; So as our <hi>Engliſh</hi> air is not ſuſceptible of any other ſound, and ecchoes out nothing elſe; our Bels, Bone<g ref="char:EOLhyphen"/>fires, peals of Ordinance, Volleys of ſhot, the ſhouts and acclamations of the People, bears no other Mo<g ref="char:EOLhyphen"/>ral, have no other Signification, but to triumph,
+<pb n="7" facs="tcp:168875:6"/>
+triumphs of our King in the hearts of his people.</p>
+               <p>Your Majeſtie cannot imagine nor can any man conceive it but he who was preſent to ſee and heare it, with what Joy, what cheerefulneſſe, what let<g ref="char:EOLhyphen"/>tings out of the Soule, what expreſſions of tranſpor<g ref="char:EOLhyphen"/>ted minds, a ſtupendious concourſe of people, atten<g ref="char:EOLhyphen"/>ded the proclayming of your Majeſtie in your Ci<g ref="char:EOLhyphen"/>ties of <hi>London</hi> and <hi>Weſtminſter,</hi> to be our moſt po<g ref="char:EOLhyphen"/>tent, mighty, and undoubted King, the oldeſt man living never ſaw the like before, nor is it probable, ſcarce poſſible, that he who hath longeſt to live will ever ſee the like again, eſpecially (and God forbid he ſhould) upon ſuch an Occaſion, for we wiſh and heartily pray that your Majeſtie may be the laſt of men of the Generation now in being, who ſhall leave his place to a ſucceſſor.</p>
+               <p>We have here the <hi>Proclamation</hi> it ſelf to preſent unto your Majeſtie and the Order of the two Houſes enjoyning it to be proclaimed throughout <hi>England, Ireland,</hi> and your <hi>Dominions of Wales;</hi> And like<g ref="char:EOLhyphen"/>wiſe their Orders for all Miniſters in their publick Prayers to pray for your Majeſtie, and for the <hi>Illu<g ref="char:EOLhyphen"/>ſtrious Prince the Duke of York your Majeſties Brother,</hi> and for the reſt of the <hi>Royall Progeny;</hi> and another Order of theirs for taking down every where the aſ<g ref="char:EOLhyphen"/>ſumed armes of the late pretended <hi>Common wealth,</hi> and ſetting up the Armes of your Majeſtie in their ſtead.</p>
+            </q>
+            <p>
+               <hi>Here he tendred the Proclamation and the ſeverall Orders unto his Majeſty, offered to read them, but then ſaid, he thought that his Majeſty had already received them from the Lords, and that therefore it</hi>
+               <pb n="8" facs="tcp:168875:7"/>
+               <hi>would be but a trouble to his Majeſty to hear them again. To which his Majeſty anſwering that he had received them, was pleaſed further to enlarge him<g ref="char:EOLhyphen"/>ſelf in ſome diſcourſe to this effect; Expreſsing his ſence of the miſeries which his people had ſuffered under thoſe unlawfull Governours which had ruled over them, and of his gladneſſe for their returning unto him, with thoſe good affections, which they now ſhewed towards him; adding that he had al<g ref="char:EOLhyphen"/>waies made it his ſtudy, and ever would to make them as happy as himſelf, which was the Summe and Subſtance of what his Majeſty ſaid.</hi>
+            </p>
+            <p>
+               <hi>To which was replyed with humble thanks for thoſe gracious expreſſions, That his Majeſty would ever find both Parliament and People to be full of Loyalty and Obedience unto his Majeſty: as his Majeſty was of grace and goodneſſe towards them. And then he went on with his Speech, relating to thoſe orders and proceedings of Parliament; And ſaid,</hi>
+            </p>
+            <q>
+               <p>Theſe are ſome teſtimonies of their love and af<g ref="char:EOLhyphen"/>fection unto your Majeſty ſuch as can as yet be ex<g ref="char:EOLhyphen"/>preſſed by them, which are but as a picture in little of a great and large body, which farre exceeds in its true, and naturall dimenſions, the whole com<g ref="char:EOLhyphen"/>paſs of a ſmall peice of cloth, on which notwithſtan<g ref="char:EOLhyphen"/>ding it is drawn and repreſented to the life.</p>
+               <p>And may it pleaſe your Majeſty to gives us leave to ſay, that as the affection, ſo your Subjects expec<g ref="char:EOLhyphen"/>tations of you are high, and their longings after you, great and vehement. And both expectations and lon<g ref="char:EOLhyphen"/>gings have increaſed by the long time; that your
+<pb n="9" facs="tcp:168875:7"/>
+Majeſtie hath been kept from them. Hope defer<g ref="char:EOLhyphen"/>red makes the heart ſick. And the ſickneſſe ſtill augments till the thing hoped for be Obteyned.</p>
+               <p>You who are the light of their eyes, and the breath of their noſtrils, their delight and all their hope, to have been ſo long baniſhed from them in<g ref="char:EOLhyphen"/>to a ſtrange land, it is no wonder that the news of your return, ſhould put a new life into them, what then will it be when their eyes ſhall be bleſſed, with the ſight of <hi>your Royall Perſon?</hi> And therefore are we commanded humbly to acquaint your Majeſtie with the earneſt deſires of both Houſes for your ſpee<g ref="char:EOLhyphen"/>dy return unto your Parliament, and the exerciſe of your Kingly Office; And that in order to it, they have given directions to <hi>Generall Montague</hi> one of the Generals at Sea and to the other Officers at Sea, to obſerve ſuch Commands, as your Majeſtie ſhall pleaſe to give them for the diſpoſall of the Fleete; And we have it in our inſtructions further to beſeech your Majeſtie to let your Parliament know when, and where, your Majeſty purpoſeth to take ſhip<g ref="char:EOLhyphen"/>ping, and where to land; and after your comming on ſhoare, whither to come all the way to <hi>London</hi> by land, or by water from <hi>Graveſend;</hi> And which of your Houſes your Majeſtie intends to make uſe of at your comming to <hi>London,</hi> that accordingly pro<g ref="char:EOLhyphen"/>viſion may be made for your Majeſties reception, for then, and not till then will be the compleating of your ſubjects rejoycing.</p>
+               <p>True it is (as your Majeſty was pleaſed juſt now to touch upon it) that in your abſence, other Lords have had Dominion over them, have reign<g ref="char:EOLhyphen"/>ned
+<pb n="10" facs="tcp:168875:8"/>
+and ruled over their bodies, and eſtates; but their better part their hearts and mindes and ſoules were free, and did abhor ſuch Rulers, and ſtill conti<g ref="char:EOLhyphen"/>nued faithfull and loyall to your Majeſtie, their rightfull <hi>Lord</hi> and <hi>Soveraigne</hi> and with you and un<g ref="char:EOLhyphen"/>der you they now expect to re-enter into the poſſeſſi<g ref="char:EOLhyphen"/>on of their antient rights, and priviledges, to enjoy again their Lawes, and Liberties, and which is a<g ref="char:EOLhyphen"/>bove all their Religion in purity, and truth; of all which thoſe Lords (who called themſelves ſo, and made themſelves ſo (that is, to be ſo called, but in truth were not ſo, for they were nothing leſſe, thoſe kind of Lords I ſay had ſo long deprived them. This is our expectation from your Majeſtie and we are more then confident, we ſhall not be deceived in it, but that your Majeſtie will anſwer and go be<g ref="char:EOLhyphen"/>yond all that can be expected from you: A King of ſo many vowes, and of ſo many Prayers, cannot but crown the deſires of his people.</p>
+               <p>Sir to tell you what men think, and ſay, and wiſh, and even are aſſured of in relation to your Majeſty and the happineſs which your Government will pro<g ref="char:EOLhyphen"/>duce, would ſeem a deſcription of the Golden Age, that Poets fancy.</p>
+               <p>Truly we dare not undertake it, in your Majeſtys preſence, leaſt we ſhould be thought to flatter, and ſhould offend the ſacred modeſty of your ears, and of your princely mind. Though it would all be but a reall truth; yet looking like that, which you do not like, we fear you would diſlike it for the looke ſake, Great princes will not be flattered, but really, and truly ſerved, and we deſire to ſerve your Majeſtie in your own way.</p>
+               <p>
+                  <pb n="11" facs="tcp:168875:8"/>
+Your Majeſty hath been pleaſed to declare your royall intentions unto your Parliament, in your gra<g ref="char:EOLhyphen"/>tious letters, to either houſe and the two houſes have ſeverally given unto your Majeſty a faithful account of that gratefull ſence, wherewith they have recei<g ref="char:EOLhyphen"/>ved them, and of their humble ſubmiſſion unto and complyance with, all-your Majeſtyes deſires, which by their Letters in anſwer unto your Majeſties they make bold to ſignifie. That from the Houſe of Peers hath been already preſented and we who are before your majeſty are intruſted by the Houſe of Commons with the delivery of theirs, an honour not more conferred upon us beyond our deſervings, then embraced and received by us, with an exceſſe of joy and with all due reſpects, which is the errand upon which we are now come. That Letter and the Proclamation and the ſeverall Orders, together with our ſelves, our lives and fortunes, and the vowes and ſervices of thoſe who ſent us, we do with all hum<g ref="char:EOLhyphen"/>bleneſſe lay at your majeſties feet, lifting up our hearts and hands to the God of Heaven, for your majeſties long and happy reigne over us, and ſpee<g ref="char:EOLhyphen"/>dy return unto us.</p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
